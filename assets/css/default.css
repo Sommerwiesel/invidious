@@ -777,6 +777,17 @@ body.dark-theme a.pure-button {
     width:24%;
 }
 
+#search-widget .pure-u-1-4 {
+    display:none;
+}
+
+#search-widget .searchbar {
+    margin: 20px auto;
+    width:60%;
+    max-width:900px;
+    min-width:200px;
+}
+
 /* CLEANED UP CLUTTER */
 .vjs-overlay-background,
 .ion-logo-youtube,
@@ -787,4 +798,4 @@ body.dark-theme a.pure-button {
 #engagement,
 #family_friendly {
     display: none;
-} 
+}
