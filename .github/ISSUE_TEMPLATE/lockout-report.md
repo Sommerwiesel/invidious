@@ -19,15 +19,15 @@ Please provide the HTTP-Error code (400, 403, 444) your browser received when op
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [e.g. Manjaro Linux]
+ - Browser [e.g. Firefox]
+ - Version [e.g. 108.2]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Device: [e.g. Fairphone 4]
+ - OS: [e.g. Lineage OS 4]
+ - Browser [e.g. Firefox]
+ - Version [e.g. 108.2]
 
 **Additional context**
 Add any other context about the problem here.
