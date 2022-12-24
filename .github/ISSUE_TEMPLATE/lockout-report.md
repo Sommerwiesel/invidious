@@ -12,7 +12,7 @@ assignees: Sommerwiesel
 A clear and concise description of what you did and what happened (i.e. when and how did you get locked out).
 
 **Error code**
-Please provide the HTTP-Error code (400, 403, 444) your browser received when opening https://invidious.nerdvpn.de. You can chekc the browser developer tools - network tab for this:
+Please provide the HTTP-Error code (400, 403, 444) your browser received when opening https://invidious.nerdvpn.de. You can check the browser developer tools - network tab for this:
 
 
 **Screenshots**
