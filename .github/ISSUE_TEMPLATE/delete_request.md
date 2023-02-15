@@ -1,7 +1,7 @@
 ---
 name: Data-Deletion request
 about: You want your account data to be deleted
-title: "[delete] : <TITLE>"
+title: "[delete] : Please delete my account data"
 labels: delete
 assignees: Sommerwiesel
 
