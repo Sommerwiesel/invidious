@@ -1,7 +1,7 @@
 ---
 name: Account deletion request
 about: You want your account to be deleted
-title: "[delete] : Please delete my account"
+title: "[DELETE] : Please delete my account"
 labels: delete
 assignees: Sommerwiesel
 
