@@ -7,4 +7,4 @@ assignees: Sommerwiesel
 
 ---
 
-You don't need to provide any information for this issue. I will contact you via github personal message.
+You don't need to provide any information for this issue. I will contact you in the issue topic
