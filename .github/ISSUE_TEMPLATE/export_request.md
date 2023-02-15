@@ -1,7 +1,7 @@
 ---
 name: Data-Export request
 about: You want your account data to be exported
-title: "[EXPORT] : <TITLE>"
+title: "[EXPORT] : Please remove my account data"
 labels: export
 assignees: Sommerwiesel
 
